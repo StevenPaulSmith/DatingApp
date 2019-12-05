@@ -37,6 +37,11 @@
     <None Remove="ClientApp\src\app\_resolvers\member-list.resolver.ts" />
     <None Remove="ClientApp\src\app\_resolvers\messages.resolver.ts" />
     <None Remove="ClientApp\src\app\_services\error.interceptor.ts" />
+    <None Remove="ClientApp\tsconfig.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="ClientApp\tsconfig.json" />
   </ItemGroup>
 
   <ItemGroup>
